@@ -1,3 +1,12 @@
+## [0.6.1](https://github.com/AlexBB22/greetings-ci/compare/v0.6.0...v0.6.1) (2024-11-12)
+
+
+### Bug Fixes
+
+* update to greeting for blue ([682b54b](https://github.com/AlexBB22/greetings-ci/commit/682b54b786dd176c0456247d7d06461187e8dd40))
+
+
+
 # [0.6.0](https://github.com/AlexBB22/greetings-ci/compare/v0.5.0...v0.6.0) (2024-11-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * version artifact ([9054aa4](https://github.com/AlexBB22/greetings-ci/commit/9054aa475f051076230a7016c8141b393755e1df))
-
-
-
-# [0.2.0](https://github.com/AlexBB22/greetings-ci/compare/v0.1.0...v0.2.0) (2024-11-12)
-
-
-### Features
-
-* upload artifact ([0e705c7](https://github.com/AlexBB22/greetings-ci/commit/0e705c768951b53a957f1655ccc849b3da9c0025))
 
 
 
