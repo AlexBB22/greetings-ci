@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/AlexBB22/greetings-ci/compare/v0.2.0...v0.3.0) (2024-11-12)
+
+
+### Features
+
+* version artifact ([9054aa4](https://github.com/AlexBB22/greetings-ci/commit/9054aa475f051076230a7016c8141b393755e1df))
+
+
+
 # [0.2.0](https://github.com/AlexBB22/greetings-ci/compare/v0.1.0...v0.2.0) (2024-11-12)
 
 
